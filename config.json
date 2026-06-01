@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filtercecrypt",
+        "uuid": 9944220,
+        "checksum": "2jwgc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
